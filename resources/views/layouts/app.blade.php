@@ -15,11 +15,11 @@
 	<meta name="format-detection" content="telephone=no">
 	
 	<!-- FAVICONS ICON -->
-	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<link rel="icon" href="{{asset('images/favicon.ico')}}" type="image/x-icon" />
+	<link rel="shortcut icon" type="image/x-icon" href="{{asset('images/favicon.ico')}}" />
 	
 	<!-- PAGE TITLE HERE -->
-	<title>BeautyZone : Beauty Spa Salon HTML Template </title>
+	<title>Youyou-Beauty </title>
 	
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,13 +30,13 @@
 	<![endif]-->
 	
 	<!-- STYLESHEETS -->
-	<link rel="stylesheet" type="text/css" href="css/plugins.min.css">
-	<link rel="stylesheet" type="text/css" href="plugins/fontawesome/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="plugins/flaticon/flaticon.css">
-	<link rel="stylesheet" type="text/css" href="plugins/themify/themify-icons.css">
-	<link rel="stylesheet" type="text/css" href="css/style.min.css">
-	<link rel="stylesheet" type="text/css" href="css/templete.min.css">
-	<link class="skin" rel="stylesheet" type="text/css" href="css/skin/skin-1.css">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/plugins.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('plugins/fontawesome/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('plugins/flaticon/flaticon.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('plugins/themify/themify-icons.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/style.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/templete.min.css')}}">
+	<link class="skin" rel="stylesheet" type="text/css" href="{{asset('css/skin/skin-1.css')}}">
 	
 	<!-- Google Fonts -->
 	<style>
@@ -44,7 +44,7 @@
 	</style>
 	
 	<!-- Revolution Slider Css -->
-	<link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/revolution.min.css">
+	<link rel="stylesheet" type="text/css" href="{{asset('plugins/revolution/revolution/css/revolution.min.css')}}">
 
 </head>
 <body id="bg">
@@ -80,7 +80,7 @@
                 <div class="container clearfix">
                     <!-- website logo -->
                     <div class="logo-header mostion">
-						<a href="index.html" class="dez-page"><img src="images/logo-black.png" alt=""></a>
+						<a href="index.html" class="dez-page"><img src="{{asset('images/2.png')}}" alt=""></a>
 					</div>
                     <!-- nav toggle button -->
                     <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,83 +91,16 @@
                     <!-- main nav -->
                     <div class="header-nav navbar-collapse collapse justify-content-between" id="navbarNavDropdown">
                         <ul class="nav navbar-nav">	
-							<li class="active"><a href="#">Home <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
-									<li><a href="index.html" class="dez-page">Home 1</a></li>
-									<li><a href="index-2.html" class="dez-page">Home 2</a></li>
-									<li><a href="index-3.html" class="dez-page">Home 3 <span class="new-page menu-new">New</span></a></li>
-									<li><a href="index-4.html" class="dez-page">Home 4 <span class="new-page menu-new">New</span></a></li>
-									<li><a href="index-5.html" class="dez-page">Home 5 <span class="new-page menu-new">New</span></a></li>
-								</ul>	
-							</li>
-							<li><a href="javascript:void(0);">Pages <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
-									<li><a href="javascript:void(0);" class="dez-page">Header <span class="new-page menu-new">New</span><i class="fa fa-angle-right"></i></a>
-										<ul class="sub-menu">
-											<li><a href="header-1.html" class="dez-page">Header 1</a></li>
-											<li><a href="header-2.html" class="dez-page">Header 2</a></li>
-											<li><a href="header-3.html" class="dez-page">Header 3</a></li>
-											<li><a href="header-4.html" class="dez-page">Header 4</a></li>
-											<li><a href="header-5.html" class="dez-page">Header 5</a></li>
-										</ul>
-									</li>
-									<li><a href="javascript:void(0);" class="dez-page">Footer <span class="new-page menu-new">New</span><i class="fa fa-angle-right"></i></a>
-										<ul class="sub-menu">
-											<li><a href="footer-1.html" class="dez-page">Footer 1</a></li>
-											<li><a href="footer-2.html" class="dez-page">Footer 2</a></li>
-											<li><a href="footer-3.html" class="dez-page">Footer 3</a></li>
-											<li><a href="footer-4.html" class="dez-page">Footer 4</a></li>
-											<li><a href="footer-5.html" class="dez-page">Footer 5</a></li>
-										</ul>
-									</li>
-									<li><a href="about-us.html" class="dez-page">About Us</a></li>
-									<li><a href="booking.html" class="dez-page">Booking</a></li>
-									<li><a href="team.html" class="dez-page">Our Team</a></li>
-									<li><a href="under-maintenance.html" class="dez-page">Under Maintenance<span class="new-page menu-new">New</span></a></li>
-									<li><a href="magnific-popup.html" class="dez-page">Magnific Gallery <span class="new-page menu-new">New</span></a></li>
-									<li><a href="light-box.html" class="dez-page">Light Gallery <span class="new-page menu-new">New</span></a></li>
-									<li><a href="coming-soon.html" class="dez-page">Coming Soon</a></li>
-									<li><a href="error-404.html" class="dez-page">Error 404</a></li>
-									<li><a href="login.html" class="dez-page">Login</a></li>
-									<li><a href="register.html" class="dez-page">Register</a></li>
-									<li><a href="contact.html" class="dez-page">Contact Us</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Our Service <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
-									<li><a href="service.html" class="dez-page">Services</a></li>
-									<li><a href="services-details.html" class="dez-page">Services Details</a></li>
-								</ul>
-							</li>
+							<li class="active"><a href="{{route('home')}}">Accueil </a></li>
+							<li><a href="{{route('services')}}">Services </a></li>
 						</ul>
 						<ul class="nav navbar-nav">
-							<li><a href="#">Blog <i class="fa fa-chevron-down"></i></a>
+                            <li><a href="{{route('produits')}}">Produits </a>
+                            </li>
+                            <li><a href="#">Contact </a>
 								<ul class="sub-menu">
-									<li><a href="blog-classic.html" class="dez-page">Classic</a></li>
-									<li><a href="blog-classic-sidebar.html" class="dez-page">Classic Sidebar</a></li>
-									<li><a href="blog-detailed-grid.html" class="dez-page">Detailed Grid</a></li>
-									<li><a href="blog-detailed-grid-sidebar.html" class="dez-page">Detailed Grid Sidebar</a></li>
-									<li><a href="blog-left-img.html" class="dez-page">Left Image Sidebar</a></li>
-									<li><a href="blog-details.html" class="dez-page">Blog Details</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Our Portfolio <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
-									<li><a href="portfolio-grid-2.html" class="dez-page">Portfolio Grid 2 </a></li>
-									<li><a href="portfolio-grid-3.html" class="dez-page">Portfolio Grid 3 </a></li>
-									<li><a href="portfolio-grid-4.html" class="dez-page">Portfolio Grid 4 </a></li>
-								</ul>
-							</li>
-							<li><a href="#">Shop <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu left">
-									<li><a href="shop-columns.html" class="dez-page">Shop Columns</a></li>
-									<li><a href="shop-columns-sidebar.html" class="dez-page">Shop Columns Sidebar</a></li>
-									<li><a href="shop-product-details.html" class="dez-page">Product Details</a></li>
-									<li><a href="shop-cart.html" class="dez-page">Cart</a></li>
-									<li><a href="shop-checkout.html" class="dez-page">Checkout</a></li>
-									<li><a href="shop-wishlist.html" class="dez-page">Wishlist</a></li>
-									<li><a href="shop-login.html" class="dez-page">Shop Login</a></li>
-									<li><a href="shop-register.html" class="dez-page">Shop Register</a></li>
+									<li><a href="{{route('about')}}" class="dez-page">A propos</a></li>
+									<li><a href="{{route('contact')}}" class="dez-page">Contactez nous</a></li>
 								</ul>
 							</li>
 						</ul>		
@@ -191,43 +124,43 @@
 				<div class="row">
 					<div class="carousel-gallery dots-none owl-none owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 mfp-gallery">
 						<div class="item dlab-box">
-							<a href="images/gallery/pic1.jpg" data-source="images/gallery/pic1.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic1.jpg" alt="">
+							<a href="{{asset('images/gallery/pic1.jpg')}}" data-source="{{asset('images/gallery/pic1.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic1.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
-							<a href="images/gallery/pic2.jpg" data-source="images/gallery/pic2.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic2.jpg" alt="">
+							<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic2.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic2.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
-							<a href="images/gallery/pic2.jpg" data-source="images/gallery/pic3.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic3.jpg" alt="">
+							<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic3.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic3.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
-							<a href="images/gallery/pic4.jpg" data-source="images/gallery/pic4.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic4.jpg" alt="">
+							<a href="{{asset('images/gallery/pic4.jpg')}}" data-source="{{asset('images/gallery/pic4.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic4.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item  dlab-box">
-							<a href="images/gallery/pic5.jpg" data-source="images/gallery/pic5.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic5.jpg" alt="">
+							<a href="{{asset('images/gallery/pic5.jpg')}}" data-source="{{asset('images/gallery/pic5.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic5.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
-							<a href="images/gallery/pic6.jpg" data-source="images/gallery/pic6.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic6.jpg" alt="">
+							<a href="{{asset('images/gallery/pic6.jpg')}}" data-source="images/gallery/pic6.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic6.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
 							<a href="images/gallery/pic7.jpg" data-source="images/gallery/pic7.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic7.jpg" alt="">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic7.jpg')}}" alt="">
 							</a>
 						</div>
 						<div class="item dlab-box">
-							<a href="images/gallery/pic8.jpg" data-source="images/gallery/pic8.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="images/gallery/thumb/pic8.jpg" alt="">
+							<a href="{{asset('images/gallery/pic8.jpg')}}" data-source="{{asset('images/gallery/pic8.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic8.jpg')}}" alt="">
 							</a>
 						</div>
 					</div>
@@ -316,14 +249,14 @@
         </div>
     </footer>
     <!-- Footer END-->
-    <button class="scroltop fa fa-chevron-up" ></button>
+    
 </div>
 <!-- JAVASCRIPT FILES ========================================= -->
-<script src="js/combining.js"></script><!-- COMBINING JS  -->
+<script src="{{asset('js/combining.js')}}"></script><!-- COMBINING JS  -->
  <!-- revolution JS FILES -->
-<script src="plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/rev.slider.js"></script>
+<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
+<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
+<script src="{{asset('js/rev.slider.js')}}"></script>
 <script>
 jQuery(document).ready(function() {
 	'use strict';

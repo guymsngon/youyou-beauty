@@ -22,7 +22,7 @@
                 <div class="item">
                     <div class="service-box text-center">
                         <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic1.jpg" alt=""/>
+                            <img width="300" height="300" src="images/our-services/pic1.jpg" alt="" style="color:#76bc3d"/>
                             <i class="flaticon-woman-1"></i>
                         </div>
                         <div class="service-content">

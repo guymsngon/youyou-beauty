@@ -13,10 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('home', function () {
     return view('pages.welcome');
-});
+}) -> name('home');
 
 Route::group(['prefix' => 'YouyouBeauty'], function(){
-    Route::get('nameroute', function(){return view('pages.home');}) -> name('name');
+    Route::get('services', function(){return view('pages.service');}) -> name('services');
+    Route::get('produits', function(){return view('pages.produit');}) -> name('produits');
+    Route::get('contact', function(){return view('pages.contact');}) -> name('contact');
+    Route::get('about', function(){return view('pages.about');}) -> name('about');
 });

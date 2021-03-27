@@ -108,7 +108,7 @@
 .sw-theme-default > ul.step-anchor > li.done > a {
     border: none !important;
     color: #fff !important;
-    background: #ff5ea5 !important;
+    background: #76bc3d !important;
     cursor: pointer;
 	border-radius:0 !important;
 }
@@ -247,7 +247,7 @@
 	opacity:0;
 }
 .book-time .btn.active{
-	background-color:#ff5ea5;
+	background-color:#76bc3d;
 	color:#fff;
 }
 .book-time  .btn.active-time{
