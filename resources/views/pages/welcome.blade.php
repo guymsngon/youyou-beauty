@@ -1,3 +1,7 @@
+<?php $x = 'active' ?>
+<?php $y = '' ?>
+<?php $z = '' ?>
+<?php $t = '' ?>
 @extends('layouts.app')
 
 @section('content')

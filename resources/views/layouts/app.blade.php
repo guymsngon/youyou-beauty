@@ -80,7 +80,7 @@
                 <div class="container clearfix">
                     <!-- website logo -->
                     <div class="logo-header mostion">
-						<a href="index.html" class="dez-page"><img src="{{asset('images/2.png')}}" alt=""></a>
+						<a href="{{route('home')}}" class="dez-page"><img width="30" height="30" src="{{asset('images/2.png')}}" alt=""></a>
 					</div>
                     <!-- nav toggle button -->
                     <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,13 +91,13 @@
                     <!-- main nav -->
                     <div class="header-nav navbar-collapse collapse justify-content-between" id="navbarNavDropdown">
                         <ul class="nav navbar-nav">	
-							<li class="active"><a href="{{route('home')}}">Accueil </a></li>
-							<li><a href="{{route('services')}}">Services </a></li>
+							<li class= <?php echo $x ?>><a href="{{route('home')}}">Accueil </a></li>
+							<li class= <?php echo $y ?>><a href="{{route('services')}}">Services </a></li>
 						</ul>
 						<ul class="nav navbar-nav">
-                            <li><a href="{{route('produits')}}">Produits </a>
+                            <li class= <?php echo $z ?>><a href="{{route('produits')}}">Produits </a>
                             </li>
-                            <li><a href="#">Contact </a>
+                            <li class= <?php echo $t ?>><a href="#">Contact </a>
 								<ul class="sub-menu">
 									<li><a href="{{route('about')}}" class="dez-page">A propos</a></li>
 									<li><a href="{{route('contact')}}" class="dez-page">Contactez nous</a></li>
