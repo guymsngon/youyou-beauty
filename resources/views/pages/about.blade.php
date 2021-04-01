@@ -234,7 +234,7 @@
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic1.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>L créativité c'est chez nous et chez nous vous trouverez la satisfaction que vous recherchez.</p>
+                            <p>La créativité c'est chez nous et chez nous vous trouverez la satisfaction que vous recherchez.</p>
                         </div>
                         <div class="testimonial-detail"> <strong class="testimonial-name">Cliente</strong> <span class="testimonial-position">Etudiante</span> </div>
                     </div>
