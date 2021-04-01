@@ -252,7 +252,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"> <span class="icon-cell text-primary"><i class="flaticon-sauna-1"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">Nouveauté sur les Equipment</h6>
+                            <h6 class="dlab-tilte">Equipments</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -387,46 +387,46 @@
             <div class="team-carousel owl-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-primary-full owl-loaded owl-drag">
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="images/our-team/pic1.jpg" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse 1.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                            <h5 class="text-black m-a0"><a href="#">Coiffeuse</a></h5>
+                            <span class="clearfix">Coiffeuse</span>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="images/our-team/pic2.jpg" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse2.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                            <h5 class="text-black m-a0"><a href="#">Coiffeuse</a></h5>
+                            <span class="clearfix">Coiffeuse</span>
                         </div>
                     </div>
                 </div>	
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="images/our-team/pic3.jpg" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/esth1.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                            <h5 class="text-black m-a0"><a href="#">Esthéticienne</a></h5>
+                            <span class="clearfix">Esthéticienne</span>
                         </div>
                     </div>
                 </div>	
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="images/our-team/pic5.jpg" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/makeuper1.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                            <h5 class="text-black m-a0"><a href="#">Makeuper</a></h5>
+                            <span class="clearfix">Makeuper</span>
                         </div>
                     </div>
                 </div>	
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="images/our-team/pic4.jpg" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/makeuper2.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                            <h5 class="text-black m-a0"><a href="#">Makeuper</a></h5>
+                            <span class="clearfix">Makeuper</span>
                         </div>
                     </div>
                 </div>	

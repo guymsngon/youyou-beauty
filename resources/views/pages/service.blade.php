@@ -132,7 +132,7 @@
 					<div class="team-carousel owl-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-primary-full owl-loaded owl-drag">
 						<div class="item">
 							<div class="dlab-box text-center team-box">
-								<div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse1.jpeg')}}" alt=""></div>
+								<div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse 1.jpeg')}}" alt=""></div>
 								<div class="dlab-title-bx p-a10">
 									<h5 class="text-black m-a0"><a href="#">Coiffeuse</a></h5>
 									<span class="clearfix">Coiffeuse</span>
@@ -159,7 +159,7 @@
 						</div>	
 						<div class="item">
 							<div class="dlab-box text-center team-box">
-								<div class="dlab-media"> <img src="{{asset('images/our-team/makuper1.jpeg')}}" alt=""></div>
+								<div class="dlab-media"> <img src="{{asset('images/our-team/makeuper1.jpeg')}}" alt=""></div>
 								<div class="dlab-title-bx p-a10">
 									<h5 class="text-black m-a0"><a href="#">Makeuper</a></h5>
 									<span class="clearfix">Makeuper</span>
@@ -193,68 +193,6 @@
 				</div>
             </div>
 			<!-- Get in touch -->
-			<!-- Our Portfolio -->
-			<div class="section-full content-inner overlay-white-middle" style="background-image:url(images/background/bg1.png), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
-                <div class="container">
-					<div class="section-head text-black text-center">
-						<h2 class="text-primary m-b10">Our Latest Blog</h2>
-						<div class="dlab-separator-outer m-b0">
-							<div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
-						</div>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
-					</div>
-					<div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1">
-						<div class="item">
-							<div class="blog-post blog-grid">
-								<div class="dlab-post-media dlab-img-effect "> <a href="#"><img src="{{asset('images/blog/grid/pic1.jpg')}}" alt=""></a> </div>
-								<div class="dlab-info p-t10">
-									<div class="dlab-post-title ">
-										<h5 class="post-title font-weight-500 m-t0"><a href="#">Dernier produit, plein de fonctionnalités et de fonctionnalités merveilleuses</a></h5>
-									</div>
-									<div class="dlab-post-text">
-									   <p>All the Lorem Ipsum generators on the Internet tend to repeat..</p>
-									</div>
-								   <div class="dlab-post-readmore"> 
-										<a href="#" title="READ MORE" rel="bookmark" class="site-button-link black outline">LIRE PLUS  <i class="ti-arrow-right"></i></a> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="blog-post blog-grid">
-								<div class="dlab-post-media dlab-img-effect "> <a href="#"><img src="{{asset('images/blog/grid/pic2.jpg')}}" alt=""></a> </div>
-								<div class="dlab-info p-t10">
-									<div class="dlab-post-title ">
-										<h5 class="post-title font-weight-500 m-t0"><a href="#">Concevez un site Web parfait selon vos besoins et vos envies</a></h5>
-									</div>
-									<div class="dlab-post-text">
-									   <p>All the Lorem Ipsum generators on the Internet tend to repeat..</p>
-									</div>
-								   <div class="dlab-post-readmore"> 
-										<a href="#" title="READ MORE" rel="bookmark" class="site-button-link black outline">LIRE PLUS  <i class="ti-arrow-right"></i></a> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="blog-post blog-grid">
-								<div class="dlab-post-media dlab-img-effect "> <a href="#"><img src="{{asset('images/blog/grid/pic3.jpg')}}" alt=""></a> </div>
-								<div class="dlab-info p-t10">
-									<div class="dlab-post-title ">
-										<h5 class="post-title font-weight-500 m-t0"><a href="#">Design a creative website with perfection and smart technology</a></h5>
-									</div>
-									<div class="dlab-post-text">
-									   <p>All the Lorem Ipsum generators on the Internet tend to repeat..</p>
-									</div>
-								   <div class="dlab-post-readmore"> 
-										<a href="#" title="READ MORE" rel="bookmark" class="site-button-link black outline">READ MORE <i class="ti-arrow-right"></i></a> 
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-            </div>
         <!-- contact area END -->
         </div>
 		<!-- contact area END -->
