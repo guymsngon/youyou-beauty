@@ -84,7 +84,7 @@
                             <div class="col-lg-12">
                                 <div class="form-group">
                                     <div class="input-group">
-                                        <input name="dzName" type="text" required class="form-control" placeholder="Your Name">
+                                        <input name="dzName" type="text" required class="form-control" placeholder="votre nom">
                                     </div>
                                 </div>
                             </div>

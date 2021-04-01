@@ -164,7 +164,7 @@
     <div class="section-full bg-white content-inner">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Professional Team</h2>
+                <h2 class="text-primary m-b10">Notre Equipe de professionnels</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -177,8 +177,8 @@
                             <img src="{{asset('images/our-team/pic1.jpg')}}" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Ann Smith</a></h6>
-                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Une coiffeuse </a></h6>
+                            <p class="m-b0">C'est un fait établi depuis longtemps qu'un lecteur sera distrait par le contenu lisible d'une page.</p>
                         </div>
                     </div>
                 </div>
@@ -188,8 +188,8 @@
                             <img src="{{asset('images/our-team/pic2.jpg')}}" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Mary Lucas</a></h6>
-                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Un makeuper</a></h6>
+                            <p class="m-b0">Laissez-vous envahir par notre savoir-faire car chez YOUYOU-BEAUTY c'est du professionalisme.</p>
                         </div>
                     </div>
                 </div>
@@ -199,8 +199,8 @@
                             <img src="{{asset('images/our-team/pic3.jpg')}}" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Ann Smith</a></h6>
-                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Une esthéticienne</a></h6>
+                            <p class="m-b0">Fini vos problèmes de peau , grace à nos produits cosmétiques faits à base des plantes naturelles YOUYOU-BEAUTY prend le contole total de votre santé.</p>
                         </div>
                     </div>
                 </div>
@@ -210,8 +210,8 @@
                             <img src="{{asset('images/our-team/pic4.jpg')}}" alt=""/>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Candice Marshall </a></h6>
-                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Un makeuper </a></h6>
+                            <p class="m-b0">Vous rêvez d'un visage transformé, alors un seul institut YOUYOU-BEAUTY.</p>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
     <div class="section-full content-inner" style="background-image:url({{asset('images/background/bg4.jpg')}}); background-position: bottom; background-size:cover;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Testimonials Of Our Clients</h2>
+                <h2 class="text-primary m-b10">Temoignages de nos clients</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -234,83 +234,48 @@
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic1.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
+                            <p>L créativité c'est chez nous et chez nous vous trouverez la satisfaction que vous recherchez.</p>
                         </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
+                        <div class="testimonial-detail"> <strong class="testimonial-name">Cliente</strong> <span class="testimonial-position">Etudiante</span> </div>
                     </div>
                 </div>
                 <div class="item p-a5">
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic2.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
+                            <p>Ils sont extrêment créatifs ces Professionels de YOUYOU-BEAUTY.</p>
                         </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
+                        <div class="testimonial-detail"> <strong class="testimonial-name">Cliente</strong> <span class="testimonial-position">Student</span> </div>
                     </div>
                 </div>
                 <div class="item p-a5">
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic3.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>I think it is awesome and I can't thank you enough for working so closely with me. The entire team has been great to work.</p>
+                            <p>Je pense que c'est génial et je ne saurais trop vous remercier d'avoir travaillé si étroitement avec moi. Toute l'équipe a été formidable de travailler afin que je sois sublime.</p>
                         </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
+                        <div class="testimonial-detail"> <strong class="testimonial-name">Cliente </strong> <span class="testimonial-position">Une mariée</span> </div>
                     </div>
                 </div>
                 <div class="item p-a5">
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic1.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
+                            <p>YOUYOU rien à dire j'étais comme une reine tu m'as rendu fabuleuse et féerique.</p>
                         </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
+                        <div class="testimonial-detail"> <strong class="testimonial-name">Cliente</strong> <span class="testimonial-position">Présentatrice</span> </div>
                     </div>
                 </div>
                 <div class="item p-a5">
                     <div class="testimonial-9">
                         <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic2.jpg')}}" width="100" height="100" alt=""></div>
                         <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
+                            <p>Toujours belle et nickelle sur mon plateaux.</p>
                         </div>
                         <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
                     </div>
                 </div>
-                <div class="item p-a5">
-                    <div class="testimonial-9">
-                        <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic3.jpg')}}" width="100" height="100" alt=""></div>
-                        <div class="testimonial-text">
-                            <p>I think it is awesome and I can't thank you enough for working so closely with me. The entire team has been great to work.</p>
-                        </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
-                    </div>
-                </div>
-                <div class="item p-a5">
-                    <div class="testimonial-9">
-                        <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic1.jpg')}}" width="100" height="100" alt=""></div>
-                        <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
-                        </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
-                    </div>
-                </div>
-                <div class="item p-a5">
-                    <div class="testimonial-9">
-                        <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic2.jpg')}}" width="100" height="100" alt=""></div>
-                        <div class="testimonial-text">
-                            <p>BeautyZone was extremely creative and forward thinking. They are also very quick and efficient when executing changes for us.</p>
-                        </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
-                    </div>
-                </div>
-                <div class="item p-a5">
-                    <div class="testimonial-9">
-                        <div class="testimonial-pic radius style1"><img src="{{asset('images/testimonials/pic3.jpg')}}" width="100" height="100" alt=""></div>
-                        <div class="testimonial-text">
-                            <p>I think it is awesome and I can't thank you enough for working so closely with me. The entire team has been great to work.</p>
-                        </div>
-                        <div class="testimonial-detail"> <strong class="testimonial-name">David Matin</strong> <span class="testimonial-position">Student</span> </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -319,7 +284,7 @@
     <div class="section-full content-inner overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Latest Blog</h2>
+                <h2 class="text-primary m-b10">Notre Blog</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -332,15 +297,15 @@
                         <div class="dlab-info">
                             <div class="dlab-post-meta">
                                 <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-date">24 décembre 2020</li>
                                     <li class="post-comment"><a href="#">5k</a> </li>
                                 </ul>
                             </div>
                             <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT</a></h5>
                             </div>
                             <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS</a>
                             </div>
                         </div>
                     </div>
@@ -351,15 +316,15 @@
                         <div class="dlab-info">
                             <div class="dlab-post-meta">
                                 <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-date">31 décembre 2020</li>
                                     <li class="post-comment"><a href="#">5k</a> </li>
                                 </ul>
                             </div>
                             <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT</a></h5>
                             </div>
                             <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
                             </div>
                         </div>
                     </div>
@@ -370,15 +335,15 @@
                         <div class="dlab-info">
                             <div class="dlab-post-meta">
                                 <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-date">11 février 2021</li>
                                     <li class="post-comment"><a href="#">5k</a> </li>
                                 </ul>
                             </div>
                             <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT.</a></h5>
                             </div>
                             <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
                             </div>
                         </div>
                     </div>
@@ -389,15 +354,15 @@
                         <div class="dlab-info">
                             <div class="dlab-post-meta">
                                 <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-date">08 mars, 2021</li>
                                     <li class="post-comment"><a href="#">5k</a> </li>
                                 </ul>
                             </div>
                             <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT.</a></h5>
                             </div>
                             <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
                             </div>
                         </div>
                     </div>

@@ -183,8 +183,8 @@
                 <div class="container">
 					<div class="row">
 						<div class="col-lg-12 col-md-12 text-white text-center">
-							<h2>Video  Presentation </h2>
-							<p class="max-w700 m-auto">In this video, our staff members tell about their work at Solari, how they achieve the best results for their clients every day and more. Click the Play button below to watch this presentation.</p>
+							<h2>Video de la   Presentation </h2>
+							<p class="max-w700 m-auto">Dans cette vidéo, notre équipe vous montre le travail acherné qui'il abbatent afin de satisfaire les clients.Cliquer sur le button play pour regardez cette vidéo.</p>
 							<div class="video-play-icon m-t50">
 								<a href="https://www.youtube.com/watch?v=rICXf0UH7Cg" class="popup-youtube video"><i class="ti-control-play"></i></a>
 							</div>
