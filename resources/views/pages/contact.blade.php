@@ -36,15 +36,15 @@
                         <li class="icon-bx-wraper left m-b30">
                             <div class="icon-bx-xs border-1"> <a href="#" class="icon-cell"><i class="ti-location-pin"></i></a> </div>
                             <div class="icon-content">
-                                <h6 class="text-uppercase m-tb0 dlab-tilte">Address:</h6>
-                                <p>123 West Street, Melbourne Victoria 3000 Australia</p>
+                                <h6 class="text-uppercase m-tb0 dlab-tilte">Addresse:</h6>
+                                <p>Yaounde(Essos)-Douala(Akwa)</p>
                             </div>
                         </li>
                         <li class="icon-bx-wraper left  m-b30">
                             <div class="icon-bx-xs border-1"> <a href="#" class="icon-cell"><i class="ti-email"></i></a> </div>
                             <div class="icon-content">
                                 <h6 class="text-uppercase m-tb0 dlab-tilte">Email:</h6>
-                                <p>info@example.com</p>
+                                <p>fotsobeauty@gmail.com</p>
                             </div>
                         </li>
                         <li class="icon-bx-wraper left  m-b30">

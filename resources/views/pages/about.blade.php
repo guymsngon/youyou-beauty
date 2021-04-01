@@ -25,163 +25,46 @@
 <!-- inner page banner END -->
 <div class="content-block">
     <div class="section-full content-inner overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url({{asset('images/background/bg2.png')}}); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
-    <div class="container">
+        <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Nos Services</h2>
-                <h6 class="m-b10">Les services de qualités</h6>
+                <h2 class="text-primary m-b10">Our Services</h2>
+                <h6 class="m-b10">You Will Like To Look Like Goddes Every Day!</h6>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
             </div>
-            <div class="img-carousel owl-carousel owl-theme owl-none owl-dots-primary-big owl-btn-center-lr owl-loade m-b30">
+            <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 owl-loaded owl-drag">
                 <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic1.jpg')}}" alt="" style="color:#76bc3d"/>
-                            <i class="flaticon-woman-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic1.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-woman"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">We are Professional</a></h5>
+                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
                         </div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic2.jpg')}}" alt=""/>
-                            <i class="flaticon-lotus"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic2.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-mortar"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">Lux Cosmetic</a></h5>
+                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
                         </div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic3.jpg')}}" alt=""/>
-                            <i class="flaticon-candle"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic3.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-candle"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">Medical Education</a></h5>
+                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
                         </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic4.jpg')}}" alt=""/>
-                            <i class="flaticon-candle-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Massages</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic1.jpg')}}" alt=""/>
-                            <i class="flaticon-woman-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic2.jpg')}}" alt=""/>
-                            <i class="flaticon-lotus"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic3.jpg')}}" alt=""/>
-                            <i class="flaticon-candle"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic4.jpg')}}" alt=""/>
-                            <i class="flaticon-candle-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Massages</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic1.jpg')}}" alt=""/>
-                            <i class="flaticon-woman-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic2.jpg')}}" alt=""/>
-                            <i class="flaticon-lotus"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic3.jpg')}}" alt=""/>
-                            <i class="flaticon-candle"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="{{asset('images/our-services/pic4.jpg')}}" alt=""/>
-                            <i class="flaticon-candle-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Massages</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center">
-                <a href="#" class="site-button outline">Voir les Services</a> 
             </div>
         </div>
     </div>
@@ -190,7 +73,7 @@
     <div class="section-full content-inner bg-blue-light" style="background-image:url({{asset('images/background/bg5.jpg')}}); background-position: bottom; background-size: cover; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Nos Prix</h2>
+                <h2 class="text-primary m-b10">Our Pricing</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -254,81 +137,97 @@
                             <h3 class="text-secondry">$42.00</h3>
                         </div>
                     </div>
+                    <div class="price-tbl d-flex">
+                        <div class="flex-grow-1">
+                            <h4 class="text-primary">Facial</h4>
+                            <p>15 – 30 Minute Session </p>
+                        </div>
+                        <div class="price-val align-self-center">
+                            <h3 class="text-secondry">$38.00</h3>
+                        </div>
+                    </div>
+                    <div class="price-tbl d-flex">
+                        <div class="flex-grow-1">
+                            <h4 class="text-primary">Body Waxing</h4>
+                            <p>80 – 100 Minute Session </p>
+                        </div>
+                        <div class="price-val align-self-center">
+                            <h3 class="text-secondry">$65.00</h3>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Our Pricing -->
     <!-- Our Professional Team -->
-    <div class="section-full content-inner-2 overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url({{asset('images/background/bg2.png')}}); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
+    <div class="section-full bg-white content-inner">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Notre Equipe de Professionnelle
-                </h2>
+                <h2 class="text-primary m-b10">Our Professional Team</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
             </div>
-            <div class="team-carousel owl-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-primary-full owl-loaded owl-drag">
-                <div class="item">
-                    <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="{{asset('images/our-team/pic1.jpg')}}" alt=""></div>
-                        <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                    <div class="service-box text-center">
+                        <div class="service-images m-b15">
+                            <img src="{{asset('images/our-team/pic1.jpg')}}" alt=""/>
+                        </div>
+                        <div class="service-content">
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Ann Smith</a></h6>
+                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="{{asset('images/our-team/pic2.jpg')}}" alt=""></div>
-                        <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                    <div class="service-box text-center">
+                        <div class="service-images m-b15">
+                            <img src="{{asset('images/our-team/pic2.jpg')}}" alt=""/>
+                        </div>
+                        <div class="service-content">
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Mary Lucas</a></h6>
+                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
-                </div>	
-                <div class="item">
-                    <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="{{asset('images/our-team/pic3.jpg')}}" alt=""></div>
-                        <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                    <div class="service-box text-center">
+                        <div class="service-images m-b15">
+                            <img src="{{asset('images/our-team/pic3.jpg')}}" alt=""/>
+                        </div>
+                        <div class="service-content">
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Ann Smith</a></h6>
+                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
-                </div>	
-                <div class="item">
-                    <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="{{asset('images/our-team/pic5.jpg')}}" alt=""></div>
-                        <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                    <div class="service-box text-center">
+                        <div class="service-images m-b15">
+                            <img src="{{asset('images/our-team/pic4.jpg')}}" alt=""/>
+                        </div>
+                        <div class="service-content">
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Candice Marshall </a></h6>
+                            <p class="m-b0">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
-                </div>	
-                <div class="item">
-                    <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img width="300" height="300" src="{{asset('images/our-team/pic4.jpg')}}" alt=""></div>
-                        <div class="dlab-title-bx p-a10">
-                            <h5 class="text-black m-a0"><a href="#">John Doe</a></h5>
-                            <span class="clearfix">Cosmetologist</span>
-                        </div>
-                    </div>
-                </div>	
+                </div>
             </div>
         </div>
     </div>
-    <!-- Our Professional Team End -->
-    <!-- Our Portfolio -->
-    <div class="section-full content-inner-2" style="background-image:url({{asset('images/background/bg4.jpg')}}); background-position: bottom; background-size:cover;">
+    <!-- Our Professional Team -->
+    <!-- Testimonials Of Our Clients -->
+    <div class="section-full content-inner" style="background-image:url({{asset('images/background/bg4.jpg')}}); background-position: bottom; background-size:cover;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Témoignages des Clients</h2>
+                <h2 class="text-primary m-b10">Testimonials Of Our Clients</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Les clients ayant reçu nos services et qui par la suite ont eut des bon retour d'expériences .</p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
             </div>
             <div class="testimonial-two-dots owl-carousel owl-theme owl-dots-primary-full owl-btn-center-lr owl-btn-3">
                 <div class="item p-a5">
@@ -415,6 +314,98 @@
             </div>
         </div>
     </div>
+    <!-- Testimonials Of Our Clients -->
+    <!-- Our Latest Blog -->
+    <div class="section-full content-inner overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
+        <div class="container">
+            <div class="section-head text-black text-center">
+                <h2 class="text-primary m-b10">Our Latest Blog</h2>
+                <div class="dlab-separator-outer m-b0">
+                    <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
+                </div>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+            </div>
+            <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1">
+                <div class="item">
+                    <div class="blog-post blog-grid blog-style-1">
+                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic4.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info">
+                            <div class="dlab-post-meta">
+                                <ul class="d-flex align-items-center">
+                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-comment"><a href="#">5k</a> </li>
+                                </ul>
+                            </div>
+                            <div class="dlab-post-title ">
+                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                            </div>
+                            <div class="dlab-post-readmore blog-share"> 
+                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="blog-post blog-grid blog-style-1">
+                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic3.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info">
+                            <div class="dlab-post-meta">
+                                <ul class="d-flex align-items-center">
+                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-comment"><a href="#">5k</a> </li>
+                                </ul>
+                            </div>
+                            <div class="dlab-post-title ">
+                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                            </div>
+                            <div class="dlab-post-readmore blog-share"> 
+                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="blog-post blog-grid blog-style-1">
+                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic2.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info">
+                            <div class="dlab-post-meta">
+                                <ul class="d-flex align-items-center">
+                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-comment"><a href="#">5k</a> </li>
+                                </ul>
+                            </div>
+                            <div class="dlab-post-title ">
+                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                            </div>
+                            <div class="dlab-post-readmore blog-share"> 
+                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="blog-post blog-grid blog-style-1">
+                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic1.jpg')}}" alt=""></a> </div>
+                        <div class="dlab-info">
+                            <div class="dlab-post-meta">
+                                <ul class="d-flex align-items-center">
+                                    <li class="post-date">September 18, 2020</li>
+                                    <li class="post-comment"><a href="#">5k</a> </li>
+                                </ul>
+                            </div>
+                            <div class="dlab-post-title ">
+                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
+                            </div>
+                            <div class="dlab-post-readmore blog-share"> 
+                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Latest Blog -->
 </div>
 <!-- contact area END -->
 

@@ -276,11 +276,11 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="site-filters style1 clearfix center">
                         <ul class="filters" data-toggle="buttons">
-                            <li data-filter="" class="btn active"><input type="radio"><a href="#"><span>All</span></a></li>
-                            <li data-filter="image-1" class="btn"><input type="radio"><a href="#"><span>Haircuts</span></a></li>
-                            <li data-filter="image-2" class="btn"><input type="radio"><a href="#"><span>Coloring</span></a></li>
-                            <li data-filter="image-3" class="btn"><input type="radio"><a href="#"><span>Highlights</span></a></li>
-                            <li data-filter="image-4" class="btn"><input type="radio"><a href="#"><span>Highlights</span></a></li>
+                            <li data-filter="" class="btn active"><input type="radio"><a href="#"><span>Tout</span></a></li>
+                            <li data-filter="image-1" class="btn"><input type="radio"><a href="#"><span>Coiffure</span></a></li>
+                            <li data-filter="image-2" class="btn"><input type="radio"><a href="#"><span>Makeup</span></a></li>
+                            <li data-filter="image-3" class="btn"><input type="radio"><a href="#"><span>Onglerie</span></a></li>
+                            <li data-filter="image-4" class="btn"><input type="radio"><a href="#"><span>Esthétiques</span></a></li>
                         </ul>
                     </div>
                 </div>
