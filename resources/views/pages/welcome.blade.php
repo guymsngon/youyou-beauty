@@ -7,16 +7,56 @@
 @section('content')
 
     <!-- Main Slider -->
-    <div class="rev-slider">
-                
-    </div>  
+    <div class="section-full content-inner overlay-white-middle" style="background-image:url(images/background/bg1.png), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
+        <div class="container">
+            <div class="section-head text-black text-center">
+                <h2 class="text-primary m-b10">Youyou Beauty</h2>
+                <h6 class="m-b10">Notre soucis est de vous satisfaire</h6>
+                <div class="dlab-separator-outer m-b0">
+                    <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
+                </div>
+            </div>
+            <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 owl-loaded owl-drag">
+                <div class="item">
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="images/blog/grid/pic1.jpg" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-woman"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">Professionnalisme</a></h5>
+                            <p class="m-b15">Une approche professionnelle vous est reservé quand vous demandez nos services</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="images/blog/grid/pic2.jpg" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-mortar"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">Soin Cosmetique de luxe</a></h5>
+                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="dlab-box service-iconbox">
+                        <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="images/blog/grid/pic3.jpg" alt=""></a> </div>
+                        <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
+                            <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-candle"></i></a> </div>
+                            <h5 class="dlab-title m-t0"><a href="#">Education Medicale</a></h5>
+                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Main Slider -->
     <!-- About Us -->
     <div class="section-full bg-white content-inner-2 overlay-white-middle" style="background-image:url(images/background/bg1.png), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Services</h2>
-                <h6 class="m-b10">You Will Like To Look Like Goddes Every Day!</h6>
+                <h2 class="text-primary m-b10">Nos Services</h2>
+                <h6 class="m-b10">Les services de qualités</h6>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -169,7 +209,7 @@
                 </div>
             </div>
             <div class="text-center">
-                <a href="#" class="site-button outline">See all Services</a> 
+                <a href="#" class="site-button outline">Voir les Services</a> 
             </div>
         </div>
     </div>
@@ -182,7 +222,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"> <span class="icon-cell text-primary"><i class="flaticon-woman"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">We are Professional</h6>
+                            <h6 class="dlab-tilte">Nous somme professionnel</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -192,7 +232,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"><span class="icon-cell text-primary"><i class="flaticon-mortar"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">Lux Cosmetic</h6>
+                            <h6 class="dlab-tilte">Cosmetiques</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -202,7 +242,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"> <span class="icon-cell text-primary"><i class="flaticon-candle"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">Medical Education</h6>
+                            <h6 class="dlab-tilte">Education Medicale</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -212,7 +252,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"> <span class="icon-cell text-primary"><i class="flaticon-sauna-1"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">The Newest Equipment</h6>
+                            <h6 class="dlab-tilte">Nouveauté sur les Equipment</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -226,7 +266,7 @@
     <div class="section-full content-inner-2 our-portfolio" style="background-image:url(images/background/bg6.jpg); background-size: cover;">
         <div class="container">
             <div class="section-head text-black text-center m-b20">
-                <h2 class="text-primary m-b10">Our Portfolio</h2>
+                <h2 class="text-primary m-b10">Notre Portfolio</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -323,7 +363,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 text-white text-center">
-                    <h2>Video Presentation </h2>
+                    <h2>Video de Presentation </h2>
                     <p class="max-w700 m-auto">In this video, our staff members tell about their work at Solari, how they achieve the best results for their clients every day and more. Click the Play button below to watch this presentation.</p>
                     <div class="video-play-icon m-t50">
                         <a href="https://www.youtube.com/watch?v=rICXf0UH7Cg" class="popup-youtube video"><i class="ti-control-play"></i></a>
@@ -337,7 +377,8 @@
     <div class="section-full content-inner-2 overlay-white-middle" style="background-image:url(images/background/bg1.png), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Professional Team</h2>
+                <h2 class="text-primary m-b10">Notre Equipe de Professionnelle
+                </h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
@@ -397,11 +438,11 @@
     <div class="section-full content-inner-2" style="background-image:url(images/background/bg4.jpg); background-position: bottom; background-size:cover;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Testimonials Of Our Clients</h2>
+                <h2 class="text-primary m-b10">Témoignages des Clients</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Les clients ayant reçu nos services et qui par la suite ont eut des bon retour d'expériences .</p>
             </div>
             <div class="testimonial-two-dots owl-carousel owl-theme owl-dots-primary-full owl-btn-center-lr owl-btn-3">
                 <div class="item p-a5">
@@ -488,96 +529,6 @@
             </div>
         </div>
     </div>
-    <!-- Our Portfolio END -->
-    <!-- Our Portfolio -->
-    <div class="section-full content-inner overlay-white-middle" style="background-image:url(images/background/bg1.png), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
-        <div class="container">
-            <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Latest Blog</h2>
-                <div class="dlab-separator-outer m-b0">
-                    <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
-                </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
-            </div>
-            <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1">
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img width="700" height="500" src="images/blog/grid/pic4.jpg" alt=""></a> </div>
-                        <div class="dlab-info">
-                                <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img width="700" height="500" src="images/blog/grid/pic3.jpg" alt=""></a> </div>
-                        <div class="dlab-info">
-                                <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img width="700" height="500" src="images/blog/grid/pic2.jpg" alt=""></a> </div>
-                        <div class="dlab-info">
-                                <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img width="700" height="500" src="images/blog/grid/pic1.jpg" alt=""></a> </div>
-                        <div class="dlab-info">
-                                <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">September 18, 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">Spring is in the Air and and So Our These Amazing Spa Offers</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="READ MORE" rel="bookmark" class="site-button-link border-link black">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- Our Portfolio END -->  
     <!-- contact area END -->
 @endsection

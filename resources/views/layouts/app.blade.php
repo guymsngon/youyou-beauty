@@ -57,18 +57,16 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dlab-topbar-left">
 						<ul>
-							<li><i class="fa fa-phone m-r5"></i> 001 1234 6789</li>
-							<li><i class="fa fa-map-marker m-r5"></i> 6701 Democracy Blvd, Suite 300, USA</li>
+							<li><i class="fa fa-phone m-r5"></i> +237 696 817 443</li>
+							<li><i class="fa fa-map-marker m-r5"></i> 6701 Democracy Blvd, Suite 300, CAM</li>
 						</ul>
 					</div>
 					<div class="dlab-topbar-right topbar-social">
 						<ul>
-							<li><a href="#" class="site-button-link facebook hover"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button-link facebook hover"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#" class="site-button-link google-plus hover"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="#" class="site-button-link twitter hover"><i class="fa fa-twitter"></i></a></li>
 							<li><a href="#" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="#" class="site-button-link linkedin hover"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#" class="site-button-link youtube hover"><i class="fa fa-youtube-play"></i></a></li>
+							<li><a href="https://wa.me/237696817443" class="site-button-link youtube hover"><i class="fa fa-whatsapp my-float"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -172,59 +170,51 @@
                 <div class="row">
 					<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
                         <div class="widget widget_services border-0">
-                            <h6 class="m-b20">Company</h6>
+                            <h6 class="m-b20">YOUYOU BEAUTY</h6>
                             <ul>
-                                <li><a href="index.html">Home </a></li>
-                                <li><a href="about-us.html">About Us </a></li>
-                                <li><a href="team.html">Our Team</a></li>
-                                <li><a href="booking.html">Booking</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="{{route('home')}}">Accueil </a></li>
+                                <li><a href="{{route('about')}}">A propos</a></li>
                             </ul>
                         </div>
                     </div>
-					<div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-7">
+					<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
                         <div class="widget widget_services border-0">
-                            <h6 class="m-b20">Useful Link</h6>
+                            <h6 class="m-b20">ACTIVITES</h6>
                             <ul>
-                               <li><a href="shop-columns-sidebar.html">Shop </a></li>
-                                <li><a href="shop-checkout.html">Checkout</a></li>
-                                <li><a href="shop-cart.html">Cart</a></li>
-                                <li><a href="shop-login.html">Login</a></li>
-                                <li><a href="shop-register.html">Register</a></li>
+                                <li><a href="{{route('produits')}}">Produits</a></li>
+                                <li><a href="{{route('services')}}">Services</a></li>
                             </ul>
                         </div>
                     </div>
 					<div class="col-xl-4 col-lg-4 col-md-6 col-sm-5">
                         <div class="widget widget_getintuch">
-                            <h6 class="m-b30">Contact us</h6>
+                            <h6 class="m-b30">Contactez-nous</h6>
                             <ul>
                                 <li><i class="ti-location-pin"></i><strong>address</strong> demo address #8901 Marmora Road Chi Minh City, Vietnam </li>
-                                <li><i class="ti-mobile"></i><strong>phone</strong>0800-123456 (24/7 Support Line)</li>
-								<li><i class="ti-email"></i><strong>email</strong>info@example.com</li>
+                                <li><i class="ti-mobile"></i><strong>phone</strong>+237 696 817 443 (24/7)</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                         <div class="widget">
-                            <h6 class="m-b30">Subscribe To Our Newsletter</h6>
-							<p class="text-capitalize m-b20">If you have any questions, you can contact with us so that we can give you a satisfying answer. Subscribe to our newsletter to get our latest products.</p>
+                            <h6 class="m-b30">Souscrire à votre Newsletter</h6>
+							<p class="text-capitalize m-b20">Si vous souhaitez nous poser des questions vous pouvez nous les envoyer via les newsletter</p>
                             <div class="subscribe-form m-b20">
 								<form class="dzSubscribe" action="https://beautyzone.dexignzone.com/xhtml/script/mailchamp.php" method="post">
 									<div class="dzSubscribeMsg"></div>
 									<div class="input-group">
 										<input name="dzEmail" required="required"  class="form-control" placeholder="Your Email Address" type="email">
 										<span class="input-group-btn">
-											<button name="submit" value="Submit" type="submit" class="site-button radius-xl">Subscribe</button>
+											<button name="submit" value="Submit" type="submit" class="site-button radius-xl">Souscrire</button>
 										</span> 
 									</div>
 								</form>
 							</div>
 							<ul class="list-inline m-a0">
-								<li><a href="#" class="site-button facebook circle "><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button facebook circle "><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://wa.me/237696817443" class="site-button whatsapp circle "><i class="fa fa-whatsapp my-float"></i></a></li>
 								<li><a href="#" class="site-button google-plus circle "><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" class="site-button linkedin circle "><i class="fa fa-linkedin"></i></a></li>
 								<li><a href="#" class="site-button instagram circle "><i class="fa fa-instagram"></i></a></li>
-								<li><a href="#" class="site-button twitter circle "><i class="fa fa-twitter"></i></a></li>
 							</ul>
                         </div>
                     </div>
@@ -235,12 +225,12 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
-                   <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left"> <span>Copyright © 2020 DexignZone</span> </div>
+                   <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left"> <span>Copyright © 2020 youyou-beauty</span> </div>
                    <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-right ">  
 						<div class="widget-link "> 
 							<ul>
-								<li><a href="#"> Help Desk</a></li> 
-								<li><a href="#"> Privacy Policy</a></li> 
+								<li><a href="#"> Aides</a></li> 
+								<li><a href="#"> Condition d'utiisation</a></li> 
 							</ul>
 						</div>
 					</div>
@@ -252,17 +242,12 @@
     
 </div>
 <!-- JAVASCRIPT FILES ========================================= -->
-<script src="{{asset('js/combining.js')}}"></script><!-- COMBINING JS  -->
+<script src="{{asset('js/combining.js')}}"></script>
  <!-- revolution JS FILES -->
 <script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
 <script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
 <script src="{{asset('js/rev.slider.js')}}"></script>
-<script>
-jQuery(document).ready(function() {
-	'use strict';
-	dz_rev_slider_6();
-});	/*ready*/
-</script>
+
 </body>
 
 <!-- Mirrored from beautyzone.dexignzone.com/xhtml/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Mar 2021 08:06:47 GMT -->

@@ -30,8 +30,8 @@
             <!-- right part start -->
             <div class="col-lg-4 col-md-6 d-flex">
                 <div class="p-a30 border m-b30 contact-area border-1 align-self-stretch ">
-                    <h4 class="m-b10">Quick Contact</h4>
-                    <p>If you have any questions simply use the following contact details.</p>
+                    <h4 class="m-b10">Contact Rapide</h4>
+                    <p>Pour toutes vos question n'hésitez pas</p>
                     <ul class="no-margin">
                         <li class="icon-bx-wraper left m-b30">
                             <div class="icon-bx-xs border-1"> <a href="#" class="icon-cell"><i class="ti-location-pin"></i></a> </div>
@@ -76,7 +76,7 @@
             <!-- Left part start -->
             <div class="col-lg-4 col-md-6 m-b30">
                 <div class="p-a30 bg-gray clearfix">
-                    <h4>Send Message Us</h4>
+                    <h4>Envoiez nous un Message </h4>
                     <div class="dzFormMsg"></div>
                     <form method="post" class="dzForm" action="https://beautyzone.dexignzone.com/xhtml/script/contact.php">
                     <input type="hidden" value="Contact" name="dzToDo" >
@@ -91,14 +91,14 @@
                             <div class="col-lg-12">
                                 <div class="form-group">
                                     <div class="input-group"> 
-                                        <input name="dzEmail" type="email" class="form-control" required  placeholder="Your Email Id" >
+                                        <input name="dzEmail" type="email" class="form-control" required  placeholder="Votre Email Id" >
                                     </div>
                                 </div>
                             </div>
                                 <div class="col-lg-12">
                                 <div class="form-group">
                                     <div class="input-group">
-                                        <textarea name="dzMessage" rows="4" class="form-control" required placeholder="Your Message..."></textarea>
+                                        <textarea name="dzMessage" rows="4" class="form-control" required placeholder="Votre Message..."></textarea>
                                     </div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-12">
-                                <button name="submit" type="submit" value="Submit" class="site-button "> <span>Submit</span> </button>
+                                <button name="submit" type="submit" value="Submit" class="site-button "> <span>Envoyer</span> </button>
                             </div>
                         </div>
                     </form>
