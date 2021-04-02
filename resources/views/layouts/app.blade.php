@@ -58,14 +58,14 @@
 					<div class="dlab-topbar-left">
 						<ul>
 							<li><i class="fa fa-phone m-r5"></i> +237 696 817 443</li>
-							<li><i class="fa fa-map-marker m-r5"></i> 6701 Democracy Blvd, Suite 300, CAM</li>
+							<li><i class="fa fa-map-marker m-r5"></i> Yaoundé(Essos).Congelcam, Douala(Akwa).Rue des brocante, CAM</li>
 						</ul>
 					</div>
 					<div class="dlab-topbar-right topbar-social">
 						<ul>
 							<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button-link facebook hover"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#" class="site-button-link google-plus hover"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="#" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="fotsobeauty@gmail.com" class="site-button-link google-plus hover"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
 							<li><a href="https://wa.me/237696817443" class="site-button-link youtube hover"><i class="fa fa-whatsapp my-float"></i></a></li>
 						</ul>
 					</div>
@@ -78,7 +78,8 @@
                 <div class="container clearfix">
                     <!-- website logo -->
                     <div class="logo-header mostion">
-						<a href="{{route('home')}}" class="dez-page"><img width="30" height="30" src="{{asset('images/2.png')}}" alt=""></a>
+						<!-- <a href="{{route('home')}}" class="dez-page"><img width=30 height=30 src="{{asset('images/2.png')}}" alt=""></a> -->
+						<center><h3 style="color:pink">YouyouBeauty</h3></center>
 					</div>
                     <!-- nav toggle button -->
                     <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -213,8 +214,8 @@
 							<ul class="list-inline m-a0">
 								<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button facebook circle "><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://wa.me/237696817443" class="site-button whatsapp circle "><i class="fa fa-whatsapp my-float"></i></a></li>
-								<li><a href="#" class="site-button google-plus circle "><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" class="site-button instagram circle "><i class="fa fa-instagram"></i></a></li>
+								<li><a href="fotsobeautygmail.com" class="site-button google-plus circle "><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button instagram circle "><i class="fa fa-instagram"></i></a></li>
 							</ul>
                         </div>
                     </div>
