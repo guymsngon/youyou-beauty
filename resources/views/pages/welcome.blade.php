@@ -387,7 +387,7 @@
             <div class="team-carousel owl-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-dots-primary-full owl-loaded owl-drag">
                 <div class="item">
                     <div class="dlab-box text-center team-box">
-                        <div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse 1.jpeg')}}" alt=""></div>
+                        <div class="dlab-media"> <img src="{{asset('images/our-team/coiffeuse1.jpeg')}}" alt=""></div>
                         <div class="dlab-title-bx p-a10">
                             <h5 class="text-black m-a0"><a href="#">Coiffeuse</a></h5>
                             <span class="clearfix">Coiffeuse</span>

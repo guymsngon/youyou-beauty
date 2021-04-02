@@ -174,7 +174,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                     <div class="service-box text-center">
                         <div class="service-images m-b15">
-                            <img src="{{asset('images/our-team/pic1.jpg')}}" alt=""/>
+                            <img src="{{asset('images/our-team/coiffeuse1.jpeg')}}" alt=""/>
                         </div>
                         <div class="service-content">
                             <h6 class="text-uppercase"><a href="#" class="text-primary">Une coiffeuse </a></h6>
@@ -185,7 +185,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                     <div class="service-box text-center">
                         <div class="service-images m-b15">
-                            <img src="{{asset('images/our-team/pic2.jpg')}}" alt=""/>
+                            <img src="{{asset('images/our-team/makeuper1.jpeg')}}" alt=""/>
                         </div>
                         <div class="service-content">
                             <h6 class="text-uppercase"><a href="#" class="text-primary">Un makeuper</a></h6>
@@ -196,7 +196,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                     <div class="service-box text-center">
                         <div class="service-images m-b15">
-                            <img src="{{asset('images/our-team/pic3.jpg')}}" alt=""/>
+                            <img src="{{asset('images/our-team/esth1.jpeg')}}" alt=""/>
                         </div>
                         <div class="service-content">
                             <h6 class="text-uppercase"><a href="#" class="text-primary">Une esthéticienne</a></h6>
