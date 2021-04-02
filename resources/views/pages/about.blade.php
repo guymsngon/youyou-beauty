@@ -27,12 +27,12 @@
     <div class="section-full content-inner overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url({{asset('images/background/bg2.png')}}); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Services</h2>
-                <h6 class="m-b10">You Will Like To Look Like Goddes Every Day!</h6>
+                <h2 class="text-primary m-b10">Services</h2>
+                <h6 class="m-b10">Youyou Beauty rapport qualité prix</h6>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Youyou Beauty vous offre les meilleurs services en matière de santé, beauté, coiffure,soins faciaux,esthétiques et bein d'autres...</p>
             </div>
             <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 owl-loaded owl-drag">
                 <div class="item">
@@ -40,8 +40,8 @@
                         <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic1.jpg')}}" alt=""></a> </div>
                         <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
                             <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-woman"></i></a> </div>
-                            <h5 class="dlab-title m-t0"><a href="#">We are Professional</a></h5>
-                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                            <h5 class="dlab-title m-t0"><a href="#">Professionnalisme</a></h5>
+                            <p class="m-b15">Une approche professionnelle vous est reservé quand vous demandez nos services.</p>
                         </div>
                     </div>
                 </div>
@@ -50,8 +50,8 @@
                         <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic2.jpg')}}" alt=""></a> </div>
                         <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
                             <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-mortar"></i></a> </div>
-                            <h5 class="dlab-title m-t0"><a href="#">Lux Cosmetic</a></h5>
-                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                            <h5 class="dlab-title m-t0"><a href="#">Soin Cosmetique de luxe</a></h5>
+                            <p class="m-b15">Voulez-vous aller à un rendez-vous galant ou à une soirée de Galla? ne vous inquiétez plus. Les femmes Youyou Beaty est là pour vous Transformer avec ses différents Makeup à savoir: Maquillage du jour, Maquillage du Soir , face painting et Face Painting.</p>
                         </div>
                     </div>
                 </div>
@@ -60,8 +60,8 @@
                         <div class="dlab-media dlab-img-overlay5"> <a href="#"><img src="{{asset('images/blog/grid/pic3.jpg')}}" alt=""></a> </div>
                         <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
                             <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-candle"></i></a> </div>
-                            <h5 class="dlab-title m-t0"><a href="#">Medical Education</a></h5>
-                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                            <h5 class="dlab-title m-t0"><a href="#">Education Medicale</a></h5>
+                            <p class="m-b15">Les salons de beauté Youyou Beauty vos offrent les meilleurs idées pour votre santée</p>
                         </div>
                     </div>
                 </div>
@@ -73,18 +73,18 @@
     <div class="section-full content-inner bg-blue-light" style="background-image:url({{asset('images/background/bg5.jpg')}}); background-position: bottom; background-size: cover; background-repeat: no-repeat;">
         <div class="container">
             <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Our Pricing</h2>
+                <h2 class="text-primary m-b10">Nos Tarifs</h2>
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Youyou Beauty met à votre disposition des prix abordables pour vous permettre de vous procurez facilement ses services</p>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="price-tbl d-flex">
                         <div class="flex-grow-1">
-                            <h4 class="text-primary">Deep Tissue Massage</h4>
-                            <p>60 – 100 Minute Session </p>
+                            <h4 class="text-primary">Coiffure et Style</h4>
+                            <p>30 – 120 Minute la scéance </p>
                         </div>
                         <div class="price-val align-self-center">
                             <h3 class="text-secondry">$40.00</h3>
@@ -92,8 +92,8 @@
                     </div>
                     <div class="price-tbl d-flex">
                         <div class="flex-grow-1">
-                            <h4 class="text-primary">Swedish Massage</h4>
-                            <p>30 – 40 Minute Session  </p>
+                            <h4 class="text-primary">Makeup</h4>
+                            <p>30 – 40 Minute la scéance  </p>
                         </div>
                         <div class="price-val align-self-center">
                             <h3 class="text-secondry">$35.00</h3>
@@ -101,8 +101,8 @@
                     </div>
                     <div class="price-tbl d-flex">
                         <div class="flex-grow-1">
-                            <h4 class="text-primary">Deep Tissue Massage</h4>
-                            <p>60 – 100 Minute Session </p>
+                            <h4 class="text-primary">Manicure & Pedicure</h4>
+                            <p>10 – 40 Minute la scéance </p>
                         </div>
                         <div class="price-val align-self-center">
                             <h3 class="text-secondry">$40.00</h3>
@@ -110,51 +110,14 @@
                     </div>
                     <div class="price-tbl d-flex">
                         <div class="flex-grow-1">
-                            <h4 class="text-primary">Therapeutic Massage</h4>
-                            <p>40 – 60 Minute Session</p>
+                            <h4 class="text-primary">Soins de la Peau</h4>
+                            <p>40 – 120 Minute la scéance</p>
                         </div>
                         <div class="price-val align-self-center">
                             <h3 class="text-secondry">$30.00</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="price-tbl d-flex">
-                        <div class="flex-grow-1">
-                            <h4 class="text-primary">Hot Stone Massage</h4>
-                            <p>50 – 60 Minute Session </p>
-                        </div>
-                        <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$34.00</h3>
-                        </div>
-                    </div>
-                    <div class="price-tbl d-flex">
-                        <div class="flex-grow-1">
-                            <h4 class="text-primary">Couples Massage</h4>
-                            <p>20 – 30 Minute Session  </p>
-                        </div>
-                        <div class="price-val  align-self-center">
-                            <h3 class="text-secondry">$42.00</h3>
-                        </div>
-                    </div>
-                    <div class="price-tbl d-flex">
-                        <div class="flex-grow-1">
-                            <h4 class="text-primary">Facial</h4>
-                            <p>15 – 30 Minute Session </p>
-                        </div>
-                        <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$38.00</h3>
-                        </div>
-                    </div>
-                    <div class="price-tbl d-flex">
-                        <div class="flex-grow-1">
-                            <h4 class="text-primary">Body Waxing</h4>
-                            <p>80 – 100 Minute Session </p>
-                        </div>
-                        <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$65.00</h3>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -168,7 +131,7 @@
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Youyou Beauty est l'un des meilleurs salons qui excelle dans le professionalisme.</p>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
@@ -207,7 +170,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                     <div class="service-box text-center">
                         <div class="service-images m-b15">
-                            <img src="{{asset('images/our-team/pic4.jpg')}}" alt=""/>
+                            <img src="{{asset('images/our-team/makeuper2.jpeg')}}" alt=""/>
                         </div>
                         <div class="service-content">
                             <h6 class="text-uppercase"><a href="#" class="text-primary">Un makeuper </a></h6>
@@ -227,7 +190,7 @@
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Une large variété de clients aux besoins et exigences diverses toujours satisfaite </p>
             </div>
             <div class="testimonial-two-dots owl-carousel owl-theme owl-dots-primary-full owl-btn-center-lr owl-btn-3">
                 <div class="item p-a5">
@@ -280,97 +243,6 @@
         </div>
     </div>
     <!-- Testimonials Of Our Clients -->
-    <!-- Our Latest Blog -->
-    <div class="section-full content-inner overlay-white-middle" style="background-image:url({{asset('images/background/bg1.png')}}), url(images/background/bg2.png); background-position: bottom, top; background-size: 100%; background-repeat: no-repeat;">
-        <div class="container">
-            <div class="section-head text-black text-center">
-                <h2 class="text-primary m-b10">Notre Blog</h2>
-                <div class="dlab-separator-outer m-b0">
-                    <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
-                </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
-            </div>
-            <div class="blog-carousel owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1">
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic4.jpg')}}" alt=""></a> </div>
-                        <div class="dlab-info">
-                            <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">24 décembre 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic3.jpg')}}" alt=""></a> </div>
-                        <div class="dlab-info">
-                            <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">31 décembre 2020</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic2.jpg')}}" alt=""></a> </div>
-                        <div class="dlab-info">
-                            <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">11 février 2021</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT.</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="blog-post blog-grid blog-style-1">
-                        <div class="dlab-post-media dlab-img-effect radius-sm"> <a href="#"><img src="{{asset('images/blog/grid/pic1.jpg')}}" alt=""></a> </div>
-                        <div class="dlab-info">
-                            <div class="dlab-post-meta">
-                                <ul class="d-flex align-items-center">
-                                    <li class="post-date">08 mars, 2021</li>
-                                    <li class="post-comment"><a href="#">5k</a> </li>
-                                </ul>
-                            </div>
-                            <div class="dlab-post-title ">
-                                <h5 class="post-title font-20"><a href="#">AUCUNE OFFRE PROMOTIONNELLE POUR LE MOMENT.</a></h5>
-                            </div>
-                            <div class="dlab-post-readmore blog-share"> 
-                                <a href="#" title="LIRE PLUS " rel="bookmark" class="site-button-link border-link black">LIRE PLUS </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Latest Blog -->
 </div>
 <!-- contact area END -->
 

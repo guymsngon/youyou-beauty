@@ -33,7 +33,7 @@
                         <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
                             <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-mortar"></i></a> </div>
                             <h5 class="dlab-title m-t0"><a href="#">Soin Cosmetique de luxe</a></h5>
-                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                            <p class="m-b15">Hey!!! fini les problemes de peau et de laits corporels qui ne s'adaptent pas à vos exsigeances Youyou Beauty a tout ce dont il vous faut afin que vous retrouviez la joie.</p>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                         <div class="dlab-info p-a30 p-t60 border-1 bg-white text-center">
                             <div class="icon-bx-sm radius bg-white m-b20"> <a href="#" class="icon-cell"><i class="flaticon-candle"></i></a> </div>
                             <h5 class="dlab-title m-t0"><a href="#">Education Medicale</a></h5>
-                            <p class="m-b15">Lorem ipsum dolor Fusce varius euismod lacus eget feugiat rorem ipsum dolor consectetur Fusce varius.</p>
+                            <p class="m-b15">Les coiffueuses de Youyou Beauty sont des professionnelles , qualifiées et formées qui sont toujours à l'attente de vos recommandations et suggestions.</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p>Youyou Beauty vous offre les meilleurs services en matière de santé, beauté, coiffure,soins faciaux,esthétiques et bein d'autres...</p>
             </div>
             <div class="img-carousel owl-carousel owl-theme owl-none owl-dots-primary-big owl-btn-center-lr owl-loade m-b30">
                 <div class="item">
@@ -70,7 +70,7 @@
                             <i class="flaticon-woman-1"></i>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetique</a></h6>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                             <i class="flaticon-lotus"></i>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Coiffure</a></h6>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                             <i class="flaticon-candle"></i>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Soin Corporelle</a></h6>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
@@ -118,98 +118,14 @@
                             <i class="flaticon-woman-1"></i>
                         </div>
                         <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic2.jpg" alt=""/>
-                            <i class="flaticon-lotus"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic3.jpg" alt=""/>
-                            <i class="flaticon-candle"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic4.jpg" alt=""/>
-                            <i class="flaticon-candle-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Massages</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic1.jpg" alt=""/>
-                            <i class="flaticon-woman-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Cosmetics</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic2.jpg" alt=""/>
-                            <i class="flaticon-lotus"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Hairdressing</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic3.jpg" alt=""/>
-                            <i class="flaticon-candle"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Body Treatments</a></h6>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="service-box text-center">
-                        <div class="service-images m-b15">
-                            <img width="300" height="300" src="images/our-services/pic4.jpg" alt=""/>
-                            <i class="flaticon-candle-1"></i>
-                        </div>
-                        <div class="service-content">
-                            <h6 class="text-uppercase"><a href="#" class="text-primary">Massages</a></h6>
+                            <h6 class="text-uppercase"><a href="#" class="text-primary">Vente de Produits</a></h6>
                             <p>It is a long established fact that a reader will be distracted by the readable content of a page.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="text-center">
-                <a href="#" class="site-button outline">Voir les Services</a> 
+                <a href="{{route('services')}}" class="site-button outline">Voir les Services</a> 
             </div>
         </div>
     </div>
@@ -222,7 +138,7 @@
                     <div class="icon-bx-wraper p-lr15 p-b30 p-t20 bg-white center fly-box-ho">
                         <div class="icon-lg m-b10"> <span class="icon-cell text-primary"><i class="flaticon-woman"></i></span> </div>
                         <div class="icon-content">
-                            <h6 class="dlab-tilte">Nous somme professionnel</h6>
+                            <h6 class="dlab-tilte">Professionnallisme</h6>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                             <a href="#" class="site-button-secondry">Site Button</a>
                         </div>
@@ -270,7 +186,7 @@
                 <div class="dlab-separator-outer m-b0">
                     <div class="dlab-separator text-primary style-icon"><i class="flaticon-spa text-primary"></i></div>
                 </div>
-                <p class="m-b0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+                <p class="m-b0">Un cadre qui distille la bonne humeur et le bien étre </p>
             </div>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
@@ -364,7 +280,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 text-white text-center">
                     <h2>Video de Presentation </h2>
-                    <p class="max-w700 m-auto">In this video, our staff members tell about their work at Solari, how they achieve the best results for their clients every day and more. Click the Play button below to watch this presentation.</p>
+                    <p class="max-w700 m-auto">Dans cette vidéo vous aurez un apperçu de la façon dont nous travaillons au quotidien</p>
                     <div class="video-play-icon m-t50">
                         <a href="https://www.youtube.com/watch?v=rICXf0UH7Cg" class="popup-youtube video"><i class="ti-control-play"></i></a>
                     </div>

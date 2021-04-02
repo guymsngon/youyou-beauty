@@ -39,8 +39,8 @@
 							<div class="icon-bx-wraper center p-a30">
 								<div class="icon-lg radius m-b20"> <a href="#" class="icon-cell"><i class="flaticon-barbershop"></i></a> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte"><a href="#">Coifuure et Style</a></h5>
-									<p>les coiffueuses de Youyou Beauty sont des professionnelles , qualifiées et formées qui sont toujours à l'attente de vos recommandations et suggestions. </p>
+									<h5 class="dez-tilte"><a href="#">Coiffure et Style</a></h5>
+									<p>Les coiffueuses de Youyou Beauty sont des professionnelles , qualifiées et formées qui sont toujours à l'attente de vos recommandations et suggestions. </p>
 								</div>
 							</div>
 						</div>
