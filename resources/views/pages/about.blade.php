@@ -87,7 +87,7 @@
                             <p>30 – 120 Minute la scéance </p>
                         </div>
                         <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$40.00</h3>
+                            <h3 class="text-secondry">2000 XAF</h3>
                         </div>
                     </div>
                     <div class="price-tbl d-flex">
@@ -96,7 +96,7 @@
                             <p>30 – 40 Minute la scéance  </p>
                         </div>
                         <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$35.00</h3>
+                            <h3 class="text-secondry">2000 XAF</h3>
                         </div>
                     </div>
                     <div class="price-tbl d-flex">
@@ -105,7 +105,7 @@
                             <p>10 – 40 Minute la scéance </p>
                         </div>
                         <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$40.00</h3>
+                            <h3 class="text-secondry">5000 XAF</h3>
                         </div>
                     </div>
                     <div class="price-tbl d-flex">
@@ -114,7 +114,7 @@
                             <p>40 – 120 Minute la scéance</p>
                         </div>
                         <div class="price-val align-self-center">
-                            <h3 class="text-secondry">$30.00</h3>
+                            <h3 class="text-secondry">3000 XAF</h3>
                         </div>
                     </div>
                 </div>

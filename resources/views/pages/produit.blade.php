@@ -49,7 +49,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>20000 FCFA</del> <span class="text-primary">20000 FCFA</span></h4>
+                        <h4 class="item-price"><del>20000 XAF</del> <span class="text-primary">20000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>30000 FCFA</del> <span class="text-primary">30000 FCFA</span></h4>
+                        <h4 class="item-price"><del>30000 XAF</del> <span class="text-primary">30000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>25000 FCFA</del> <span class="text-primary">25000 Face</span></h4>
+                        <h4 class="item-price"><del>25000 XAF</del> <span class="text-primary">25000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>10000 FCFA</del> <span class="text-primary">10000 FCFA</span></h4>
+                        <h4 class="item-price"><del>10000 XAF</del> <span class="text-primary">10000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>10000 FCFA</del> <span class="text-primary">10000 FCFA</span></h4>
+                        <h4 class="item-price"><del>10000 XAF</del> <span class="text-primary">10000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -176,7 +176,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>5000 FCFA</del> <span class="text-primary">5000 FCFA</span></h4>
+                        <h4 class="item-price"><del>5000 XAF</del> <span class="text-primary">5000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>2000 FCFA</del> <span class="text-primary">2000 FCFA</span></h4>
+                        <h4 class="item-price"><del>2000 XAF</del> <span class="text-primary">2000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -226,7 +226,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>3000 FCFA</del> <span class="text-primary">3000 FCFA</span></h4>
+                        <h4 class="item-price"><del>3000 XAF</del> <span class="text-primary">3000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -253,7 +253,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>3000 FCFA</del> <span class="text-primary">3000 FCFA</span></h4>
+                        <h4 class="item-price"><del>3000 XAF</del> <span class="text-primary">3000 XAF</span></h4>
                     </div>
                 </div>
             </div>
@@ -278,7 +278,7 @@
                             <li><i class="fa fa-star-half-o"></i></li>
                             <li><i class="fa fa-star-o"></i></li>
                         </ul>
-                        <h4 class="item-price"><del>3500 FCFA</del> <span class="text-primary">3500 FCFA</span></h4>
+                        <h4 class="item-price"><del>3500 XAF</del> <span class="text-primary">3500 XAF</span></h4>
                     </div>
                 </div>
             </div>

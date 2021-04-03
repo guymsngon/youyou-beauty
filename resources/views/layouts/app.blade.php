@@ -47,209 +47,205 @@
 	<link rel="stylesheet" type="text/css" href="{{asset('plugins/revolution/revolution/css/revolution.min.css')}}">
 
 </head>
-<body id="bg">
-<div class="page-wraper">
-<div id="loading-area"></div>
-	<!-- header -->
-    <header class="site-header header center mo-left">
-		<div class="top-bar bg-primary text-white">
-			<div class="container">
-				<div class="row d-flex justify-content-between">
-					<div class="dlab-topbar-left">
-						<ul>
-							<li><i class="fa fa-phone m-r5"></i> +237 696 817 443</li>
-							<li><i class="fa fa-map-marker m-r5"></i> Yaoundé(Essos).Congelcam, Douala(Akwa).Rue des brocante, CAM</li>
-						</ul>
-					</div>
-					<div class="dlab-topbar-right topbar-social">
-						<ul>
-							<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button-link facebook hover"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="fotsobeauty@gmail.com" class="site-button-link google-plus hover"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="https://wa.me/237696817443" class="site-button-link youtube hover"><i class="fa fa-whatsapp my-float"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- main header -->
-        <div class="sticky-header main-bar-wraper navbar-expand-lg">
-            <div class="main-bar clearfix ">
-                <div class="container clearfix">
-                    <!-- website logo -->
-                    <div class="logo-header mostion">
-						<!-- <a href="{{route('home')}}" class="dez-page"><img width=30 height=30 src="{{asset('images/2.png')}}" alt=""></a> -->
-						<center><h3 style="color:pink">YouyouBeauty</h3></center>
-					</div>
-                    <!-- nav toggle button -->
-                    <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-						<span></span>
-						<span></span>
-						<span></span>
-					</button>
-                    <!-- main nav -->
-                    <div class="header-nav navbar-collapse collapse justify-content-between" id="navbarNavDropdown">
-                        <ul class="nav navbar-nav">	
-							<li class= <?php echo $x ?>><a href="{{route('home')}}">Accueil </a></li>
-							<li class= <?php echo $y ?>><a href="{{route('services')}}">Services </a></li>
-						</ul>
-						<ul class="nav navbar-nav">
-                            <li class= <?php echo $z ?>><a href="{{route('produits')}}">Produits </a>
-                            </li>
-                            <li class= <?php echo $t ?>><a href="#">Contact </a>
-								<ul class="sub-menu">
-									<li><a href="{{route('about')}}" class="dez-page">A propos</a></li>
-									<li><a href="{{route('contact')}}" class="dez-page">Contactez nous</a></li>
-								</ul>
-							</li>
-						</ul>		
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- main header END -->
-    </header>
-    <!-- header END -->
-    <!-- Content -->
-    <div class="page-content bg-white">
-        @yield('content')
-    </div>
-    <!-- Content END-->
-	<!-- Footer -->
-    <footer class="site-footer text-uppercase footer-white">
-		<!-- Our Portfolio END -->
-		<div class="portfolio-gallery ">
-			<div class="container-fluid">
-				<div class="row">
-					<div class="carousel-gallery dots-none owl-none owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 mfp-gallery">
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic1.jpg')}}" data-source="{{asset('images/gallery/pic1.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic1.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic2.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic2.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic3.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic3.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic4.jpg')}}" data-source="{{asset('images/gallery/pic4.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic4.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item  dlab-box">
-							<a href="{{asset('images/gallery/pic5.jpg')}}" data-source="{{asset('images/gallery/pic5.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic5.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic6.jpg')}}" data-source="images/gallery/pic6.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic6.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="images/gallery/pic7.jpg" data-source="images/gallery/pic7.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic7.jpg')}}" alt="">
-							</a>
-						</div>
-						<div class="item dlab-box">
-							<a href="{{asset('images/gallery/pic8.jpg')}}" data-source="{{asset('images/gallery/pic8.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
-								<img width="205" height="184" src="{{asset('images/gallery/thumb/pic8.jpg')}}" alt="">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-        <div class="footer-top">
-            <div class="container wow fadeIn" data-wow-delay="0.5s">
-                <div class="row">
-					<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
-                        <div class="widget widget_services border-0">
-                            <h6 class="m-b20">YOUYOU BEAUTY</h6>
-                            <ul>
-                                <li><a href="{{route('home')}}">Accueil </a></li>
-                                <li><a href="{{route('about')}}">A propos</a></li>
-                            </ul>
-                        </div>
-                    </div>
-					<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
-                        <div class="widget widget_services border-0">
-                            <h6 class="m-b20">ACTIVITES</h6>
-                            <ul>
-                                <li><a href="{{route('produits')}}">Produits</a></li>
-                                <li><a href="{{route('services')}}">Services</a></li>
-                            </ul>
-                        </div>
-                    </div>
-					<div class="col-xl-4 col-lg-4 col-md-6 col-sm-5">
-                        <div class="widget widget_getintuch">
-                            <h6 class="m-b30">Contactez-nous</h6>
-                            <ul>
-                                <li><i class="ti-location-pin"></i><strong>address</strong> demo address #8901 Marmora Road Chi Minh City, Vietnam </li>
-                                <li><i class="ti-mobile"></i><strong>phone</strong>+237 696 817 443 (24/7)</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                        <div class="widget">
-                            <h6 class="m-b30">Souscrire à votre Newsletter</h6>
-							<p class="text-capitalize m-b20">Si vous souhaitez nous poser des questions vous pouvez nous les envoyer via les newsletter</p>
-                            <div class="subscribe-form m-b20">
-								<form class="dzSubscribe" action="https://beautyzone.dexignzone.com/xhtml/script/mailchamp.php" method="post">
-									<div class="dzSubscribeMsg"></div>
-									<div class="input-group">
-										<input name="dzEmail" required="required"  class="form-control" placeholder="Your Email Address" type="email">
-										<span class="input-group-btn">
-											<button name="submit" value="Submit" type="submit" class="site-button radius-xl">Souscrire</button>
-										</span> 
-									</div>
-								</form>
-							</div>
-							<ul class="list-inline m-a0">
-								<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button facebook circle "><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://wa.me/237696817443" class="site-button whatsapp circle "><i class="fa fa-whatsapp my-float"></i></a></li>
-								<li><a href="fotsobeautygmail.com" class="site-button google-plus circle "><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button instagram circle "><i class="fa fa-instagram"></i></a></li>
-							</ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- footer bottom part -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                   <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left"> <span>Copyright © 2020 youyou-beauty</span> </div>
-                   <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-right ">  
-						<div class="widget-link "> 
+<body id="">
+	<div class="page-wraper">
+		<div id="loading-area"></div>
+		<!-- header -->
+		<header class="site-header header center mo-left">
+			<div class="top-bar bg-primary text-white">
+				<div class="container">
+					<div class="row d-flex justify-content-between">
+						<div class="dlab-topbar-left">
 							<ul>
-								<li><a href="#"> Aides</a></li> 
-								<li><a href="#"> Condition d'utiisation</a></li> 
+								<li><i class="fa fa-phone m-r5"></i> +237 696 817 443</li>
+								<li><i class="fa fa-map-marker m-r5"></i> Yaoundé(Essos).Congelcam, Douala(Akwa).Rue des brocante, CAM</li>
+							</ul>
+						</div>
+						<div class="dlab-topbar-right topbar-social">
+							<ul>
+								<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button-link facebook hover"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="fotsobeauty@gmail.com" class="site-button-link google-plus hover"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button-link instagram hover"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="https://wa.me/237696817443" class="site-button-link youtube hover"><i class="fa fa-whatsapp my-float"></i></a></li>
 							</ul>
 						</div>
 					</div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Footer END-->
-    
-</div>
-<!-- JAVASCRIPT FILES ========================================= -->
-<script src="{{asset('js/combining.js')}}"></script>
- <!-- revolution JS FILES -->
-<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
-<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
-<script src="{{asset('js/rev.slider.js')}}"></script>
-
+				</div>
+			</div>
+			<!-- main header -->
+			<div class="sticky-header main-bar-wraper navbar-expand-lg">
+				<div class="main-bar clearfix ">
+					<div class="container clearfix">
+						<!-- website logo -->
+						<div class="logo-header mostion">
+							<a href="{{route('home')}}" class="dez-page"><img src="{{asset('images/3.png')}}" alt=""></a>
+						</div>
+						<!-- nav toggle button -->
+						<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+							<span></span>
+							<span></span>
+							<span></span>
+						</button>
+						<!-- main nav -->
+						<div class="header-nav navbar-collapse collapse justify-content-between" id="navbarNavDropdown">
+							<ul class="nav navbar-nav">	
+								<li class= <?php echo $x ?>><a href="{{route('home')}}">Accueil </a></li>
+								<li class= <?php echo $y ?>><a href="{{route('services')}}">Services </a></li>
+							</ul>
+							<ul class="nav navbar-nav">
+								<li class= <?php echo $z ?>><a href="{{route('produits')}}">Produits </a>
+								</li>
+								<li class= <?php echo $t ?>><a href="#">Contact </a>
+									<ul class="sub-menu">
+										<li><a href="{{route('about')}}" class="dez-page">A propos</a></li>
+										<li><a href="{{route('contact')}}" class="dez-page">Contactez nous</a></li>
+									</ul>
+								</li>
+							</ul>		
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- main header END -->
+		</header>
+		<!-- header END -->
+		<!-- Content -->
+		<div class="page-content bg-white">
+			@yield('content')
+		</div>
+		<!-- Content END-->
+		<!-- Footer -->
+		<footer class="site-footer text-uppercase footer-white">
+			<!-- Our Portfolio END -->
+			<div class="portfolio-gallery ">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="carousel-gallery dots-none owl-none owl-carousel owl-btn-center-lr owl-btn-3 owl-theme owl-btn-center-lr owl-btn-1 mfp-gallery">
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic1.jpg')}}" data-source="{{asset('images/gallery/pic1.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic1.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic2.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic2.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic2.jpg')}}" data-source="{{asset('images/gallery/pic3.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic3.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic4.jpg')}}" data-source="{{asset('images/gallery/pic4.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic4.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item  dlab-box">
+								<a href="{{asset('images/gallery/pic5.jpg')}}" data-source="{{asset('images/gallery/pic5.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic5.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic6.jpg')}}" data-source="images/gallery/pic6.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic6.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="images/gallery/pic7.jpg" data-source="images/gallery/pic7.jpg" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic7.jpg')}}" alt="">
+								</a>
+							</div>
+							<div class="item dlab-box">
+								<a href="{{asset('images/gallery/pic8.jpg')}}" data-source="{{asset('images/gallery/pic8.jpg')}}" class="mfp-link dlab-media dlab-img-overlay3" title="Image title come here">
+									<img width="205" height="184" src="{{asset('images/gallery/thumb/pic8.jpg')}}" alt="">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-top">
+				<div class="container wow fadeIn" data-wow-delay="0.5s">
+					<div class="row">
+						<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
+							<div class="widget widget_services border-0">
+								<h6 class="m-b20">YOUYOU BEAUTY</h6>
+								<ul>
+									<li><a href="{{route('home')}}">Accueil </a></li>
+									<li><a href="{{route('about')}}">A propos</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
+							<div class="widget widget_services border-0">
+								<h6 class="m-b20">ACTIVITES</h6>
+								<ul>
+									<li><a href="{{route('produits')}}">Produits</a></li>
+									<li><a href="{{route('services')}}">Services</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-xl-4 col-lg-4 col-md-6 col-sm-5">
+							<div class="widget widget_getintuch">
+								<h6 class="m-b30">Contactez-nous</h6>
+								<ul>
+									<li><i class="ti-location-pin"></i><strong>adresse</strong> Yaoundé(Essos).Congelcam, Douala(Akwa).Rue des brocante, CAM </li>
+									<li><i class="ti-mobile"></i><strong>phone</strong>+237 696 817 443 (24/7)</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
+							<div class="widget">
+								<h6 class="m-b30">Souscrire à votre Newsletter</h6>
+								<p class="text-capitalize m-b20">Si vous souhaitez nous poser des questions vous pouvez nous les envoyer via les newsletter</p>
+								<div class="subscribe-form m-b20">
+									<form class="dzSubscribe" action="https://beautyzone.dexignzone.com/xhtml/script/mailchamp.php" method="post">
+										<div class="dzSubscribeMsg"></div>
+										<div class="input-group">
+											<input name="dzEmail" required="required"  class="form-control" placeholder="Your Email Address" type="email">
+											<span class="input-group-btn">
+												<button name="submit" value="Submit" type="submit" class="site-button radius-xl">Souscrire</button>
+											</span> 
+										</div>
+									</form>
+								</div>
+								<ul class="list-inline m-a0">
+									<li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="site-button facebook circle "><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://wa.me/237696817443" class="site-button whatsapp circle "><i class="fa fa-whatsapp my-float"></i></a></li>
+									<li><a href="fotsobeautygmail.com" class="site-button google-plus circle "><i class="fa fa-google-plus"></i></a></li>
+									<li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="site-button instagram circle "><i class="fa fa-instagram"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- footer bottom part -->
+			<div class="footer-bottom">
+				<div class="container">
+					<div class="row">
+					<div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left"> <span>Copyright © 2021 youyou-beauty</span> </div>
+					<div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-right ">  
+							<div class="widget-link "> 
+								<ul>
+									<li><a href="#"> Aides</a></li> 
+									<li><a href="#"> Condition d'utiisation</a></li> 
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- Footer END-->
+		
+	</div>
+	<!-- JAVASCRIPT FILES ========================================= -->
+	<script src="{{asset('js/combining.js')}}"></script>
+	<!-- revolution JS FILES -->
+	<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
+	<script src="{{asset('plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
+	<script src="{{asset('js/rev.slider.js')}}"></script>
 </body>
-
-<!-- Mirrored from beautyzone.dexignzone.com/xhtml/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Mar 2021 08:06:47 GMT -->
 </html>

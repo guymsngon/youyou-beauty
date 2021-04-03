@@ -51,7 +51,7 @@
                             <div class="icon-bx-xs border-1"> <a href="https://wa.me/237696817443" class="icon-cell"><i class="fa fa-whatsapp my-float"></i></a> </div>
                             <div class="icon-content">
                                 <h6 class="text-uppercase m-tb0 dlab-tilte">Whatsapp:</h6>
-                                <p>Contact Whatsapp</p>
+                                <p>+237 696 817 443</p>
                             </div>
                         </li>
                         <li class="icon-bx-wraper left">
@@ -66,8 +66,9 @@
                         <center>
                         <ul class="dlab-social-icon dlab-social-icon-lg">
                             <li><a href="https://www.facebook.com/Laboratoire-youyou-beauté-107245131245122" class="fa fa-facebook bg-primary"></a></li>
-                            <li><a href="javascript:void(0);" class="fa fa-instagram bg-primary"></a></li>
-                            <li><a href="javascript:void(0);" class="fa fa-google-plus bg-primary"></a></li>
+                            <li><a href="https://instagram.com/youyou_cameroon?igshid=u9as4vvyo1j6" class="fa fa-instagram bg-primary"></a></li>
+                            <li><a href="https://fotsobeauty@gmail.com" class="fa fa-google-plus bg-primary"></a></li>
+                            <li><a href="https://wa.me/237696817443" class="fa fa-whatsapp bg-primary"></a></li>
                         </ul></center>
                     </div>
                 </div>
@@ -119,7 +120,8 @@
             </div>
             <!-- Left part END -->
             <div class="col-lg-4 col-md-12 d-flex m-b30">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227748.3825624477!2d75.65046970649679!3d26.88544791796718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396c4adf4c57e281%3A0xce1c63a0cf22e09!2sJaipur%2C+Rajasthan!5e0!3m2!1sen!2sin!4v1500819483219" class="align-self-stretch " style="border:0; width:100%; height:100%;" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2037679.1081264233!2d8.63574869030235!3d4.05262690461857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bc59c1869d643%3A0x19f866ec303c2930!2sMarch%C3%A9%20Essos!5e0!3m2!1sfr!2scm!4v1617445937659!5m2!1sfr!2scm" class="align-self-stretch " style="border:0; width:100%; height:100%;" allowfullscreen></iframe>
+                <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227748.3825624477!2d75.65046970649679!3d26.88544791796718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396c4adf4c57e281%3A0xce1c63a0cf22e09!2sJaipur%2C+Rajasthan!5e0!3m2!1sen!2sin!4v1500819483219" class="align-self-stretch " style="border:0; width:100%; height:100%;" allowfullscreen></iframe> -->
             </div>
         </div>
     </div>
